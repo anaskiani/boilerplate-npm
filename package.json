@@ -4,6 +4,7 @@
   "description": "learning backend development",
   "keywords": [ "freecodecamp", "npm", "packages" ],
   "license": "BSD",
+  "version": "1.1.1",
   "dependencies": {
     "express": "^4.14.0"
   },
