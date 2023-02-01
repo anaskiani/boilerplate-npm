@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Anas Kiani",
   "description": "learning backend development",
+  "keywords": [ "freecodecamp", "npm", "packages" ],
   "dependencies": {
     "express": "^4.14.0"
   },
